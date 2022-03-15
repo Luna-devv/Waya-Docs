@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Waya is a modern and feature-rich Discord bot with many functions and features. <br />
+In this documentation we will teach you on how to setup the bot in your server and explain certain features.
 
-## Commands
+Feel free to support us on various botlists by voting for us and leaving a review if you like.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* [bots.discordlabs.org](https://bots.discordlabs.org/bot/857230367350063104)
+* [discord-botlist.eu](https://discord-botlist.eu/bots/857230367350063104)
+* [top.gg](https://top.gg/bot/857230367350063104)
 
-## Project layout
+# Getting started
+First of all you have to [invite the bot](https://top.gg/bot/857230367350063104/invite), don't forget that it needs to have permissions to set application commands in your server.
+To start the configuration use the `/config` command, it should pop-up as a slash-command shown bellow.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<img src='https://cdn.waya.one/r/1647359144.png' style='height: 6rem; border-radius: 0.4rem' />

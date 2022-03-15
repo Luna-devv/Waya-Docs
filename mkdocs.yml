@@ -20,3 +20,12 @@ extra:
       link: https://twitter.com/Luni_sia
     - icon: fontawesome/brands/github 
       link: https://github.com/Luna-devv
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
