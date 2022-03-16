@@ -5,8 +5,6 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   favicon: assets/waya.jpg
-  features:
-    - navigation.tabs
   palette:
     - scheme: slate
       primary: purple
