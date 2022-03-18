@@ -1,5 +1,5 @@
-# Message delete/update
-<img src='https://cdn.waya.one/r/1647359956.png' style='height: 10rem; border-radius: 0.4rem' />
+# Member join/leave
+<img src='https://cdn.waya.one/r/1647624856.png' style='height: 10rem; border-radius: 0.4rem' />
 
 ## Permissions
 In order you can follow this guide, you need the `MANAGE_GUILD` permissions in the guild. <br />
@@ -8,13 +8,9 @@ In the current channel you will need `VIEW_CHANNEL`, `SEND_MESSAGES` and `USE_AP
 In order the bot to work, it will need `VIEW_CHANNEL` in the current channel. <br />
 In the channel where you want to log, waya needs to have  `SEND_MESSAGES`, `EMBED_LINKS` and `MANAGE_WEBHOOKS`.
 
-!!! warning "Premissions"
-
-    Keep in mind, that we can only log messages when waya is granted the `VIEW_CHANNEL` permissions in each channel.
-
 ## Configuration
-Start by using [`/config`](/) and heading over to ^^Logging^^ => ^^Messages^^. <br />
-At this point, you will be able to see the current configuration for Message Logging.
+Start by using [`/config`](/) and heading over to ^^Logging^^ => ^^Joins^^. <br />
+At this point, you will be able to see the current configuration for Join Logging.
 You can change and modify anything with the buttons attached to the message.
 
 ### Setting up
@@ -24,7 +20,11 @@ You can change and modify anything with the buttons attached to the message.
 ### Analyst mode
 If the data Analyst mode is enabled, you will get more geeky informations about messages such es the current channel name, message written timestamp and the message ID.
 
-<img src='https://cdn.waya.one/r/1647361953.png' style='height: 10rem; border-radius: 0.4rem' />
+<img src='https://cdn.waya.one/r/1647624975.png' style='height: 10rem; border-radius: 0.4rem' />
+
+### Filter settings
+A great way to filter out members that have a young account, perfect to protect you from raids.
+Please follow the [logging/joins/filter/](logging/joins/filter/) guide for more details.
 
 ### Dupaw
 !!! note "Disabled"
@@ -34,4 +34,4 @@ If the data Analyst mode is enabled, you will get more geeky informations about 
 
 **D**isplay **U**ser **P**rofile **A**s **W**ebhook is a very cool feature to display and group all messages together that were written by the same member.
 
-<img src='https://cdn.waya.one/r/1647362194.png' style='height: 3rem; border-radius: 0.4rem' />
+<img src='https://cdn.waya.one/r/1647625045.png' style='height: 3rem; border-radius: 0.4rem' />
