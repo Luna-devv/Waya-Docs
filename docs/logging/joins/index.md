@@ -1,5 +1,5 @@
 # Member join/leave
-<img src='https://cdn.waya.one/r/1647624856.png' style='height: 10rem; border-radius: 0.4rem' />
+<img src='https://cdn.waya.one/r/1653237346.png' style='height: 9rem; border-radius: 0.4rem' />
 
 ## Permissions
 In order you can follow this guide, you need the `MANAGE_GUILD` permissions in the guild. <br />
@@ -20,7 +20,7 @@ You can change and modify anything with the buttons attached to the message.
 ### Analyst mode
 If the data Analyst mode is enabled, you will get more geeky informations about messages such es the current channel name, message written timestamp and the message ID.
 
-<img src='https://cdn.waya.one/r/1647624975.png' style='height: 10rem; border-radius: 0.4rem' />
+<img src='https://cdn.waya.one/r/1653237423.png' style='height: 9rem; border-radius: 0.4rem' />
 
 ### Filter settings
 A great way to filter out members that have a young account, perfect to protect you from raids.
@@ -34,4 +34,4 @@ Please follow the [logging/joins/filter/](logging/joins/filter/) guide for more 
 
 **D**isplay **U**ser **P**rofile **A**s **W**ebhook is a very cool feature to display and group all messages together that were written by the same member.
 
-<img src='https://cdn.waya.one/r/1647625045.png' style='height: 3rem; border-radius: 0.4rem' />
+<img src='https://cdn.waya.one/r/1653237469.png' style='height: 3rem; border-radius: 0.4rem' />

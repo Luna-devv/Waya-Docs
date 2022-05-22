@@ -1,5 +1,5 @@
-# Message delete/update
-<img src='https://cdn.waya.one/r/1647359956.png' style='height: 10rem; border-radius: 0.4rem' />
+# Message update/deletion
+<img src='https://cdn.waya.one/r/1653238211.png' style='height: 10rem; border-radius: 0.4rem' />
 
 ## Permissions
 In order you can follow this guide, you need the `MANAGE_GUILD` permissions in the guild. <br />
@@ -24,7 +24,7 @@ You can change and modify anything with the buttons attached to the message.
 ### Analyst mode
 If the data Analyst mode is enabled, you will get more geeky informations about messages such es the current channel name, message written timestamp and the message ID.
 
-<img src='https://cdn.waya.one/r/1647361953.png' style='height: 10rem; border-radius: 0.4rem' />
+<img src='https://cdn.waya.one/r/1653238180.png' style='height: 12rem; border-radius: 0.4rem' />
 
 ### Dupaw
 !!! note "Disabled"
@@ -34,4 +34,4 @@ If the data Analyst mode is enabled, you will get more geeky informations about 
 
 **D**isplay **U**ser **P**rofile **A**s **W**ebhook is a very cool feature to display and group all messages together that were written by the same member.
 
-<img src='https://cdn.waya.one/r/1647362194.png' style='height: 3rem; border-radius: 0.4rem' />
+<img src='https://cdn.waya.one/r/1653237469.png' style='height: 3rem; border-radius: 0.4rem' />
