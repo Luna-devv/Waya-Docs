@@ -1,24 +1,24 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 Welcome to A Product](README.md)
 
-## About us
+## Overview
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [💡 What we do](overview/what-we-do.md)
+* [✨ Our Features](overview/our-features.md)
 
-## Team
+## Product Guides
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [📪 Making a post](product-guides/making-a-post.md)
+* [📎 Understanding Projects](product-guides/understanding-projects.md)
 
-## Collaborating
+## Fundamentals
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
+  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
-## Policies
+## Use Cases
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🎨 For Designers](use-cases/for-designers.md)
+* [🖥 For Developers](use-cases/for-developers.md)
