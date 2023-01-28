@@ -52,7 +52,7 @@ Here are a couple of example what Waya is capable of:
 >
 > If you or your server members are used to sending many message links, but it is difficult to keep track of which message link goes where and what. You can set Waya to include the message content, media and embeds when you send one or more message links. The user who sent the message link and all server moderators can delete the message with the button.
 
-> ## Stickymessages
+> ## Sticky Messages
 >
 > Would you like a message to always be at the bottom so that members can read it? Sticky messages are the solution to this problem! Just set up a message with the command below, edit everything the way you want it, and it will resend the message every 6 seconds when new messages have appeared!
 

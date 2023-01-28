@@ -19,3 +19,11 @@ This is a notice to inform users that the stickymessage feature is enabled and d
 ### How do I disable this?
 
 To disable the stickymessages feature, a server administrator can use the command `/stickymessages delete` command on the server. This will stop the automatic resending of the pre-set message.
+
+### How can I have this too?
+
+1. Install Waya on your server by going to [get.waya.one](https://get.waya.one).
+2. Check that it has `ViewChannel` , `SendMessages` and `EmbedLinks` permissions.
+3. Run `/stickymessages create` and follow through that embed.
+4. 🎉 Done! Type some message to try it out.
+
