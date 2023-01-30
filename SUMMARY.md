@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Waya](README.md)
+* [Welcome to Waya](README.md)
 
 ## 📌 stickymessages
 
