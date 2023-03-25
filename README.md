@@ -1,18 +1,21 @@
 ---
-description: An easy-to-use multifunction bot with lot's of things.
+description: >-
+  A versatile and user-friendly bot for Discord servers, offering features such
+  as Pronoun Select, Starboarding, Ticketing, Logging and more.
+cover: .gitbook/assets/Waya banner.png
+coverY: 0
 ---
 
-# Welcome to Waya
+# 🍇 Waya - A fresh new look
 
-**Find out website at** [**waya.one**](https://waya.one)**.** (Dashboard, Verification, Waya Notes)\
-**Add the bot via** [**get.waya.one**](https://get.waya.one)**.** (Add the bot to your server)\
-**Get Enterprise at** [**waya.one/enterprise**](https://waya.one/enterprise)**.** (Better with Premium, Support us)\
-**Join our Discord at** [**discord.gg/yYd6YKHQZH**](https://lunish.nl/support)**.** (Get help with Waya)\
-**Vote for us on** [**top.gg**](https://lunish.nl/vote)**.** (Support us for free)\
+**Find out website at** [**waya.one**](https://waya.one)**.**\
+**Add the bot via** [**get.waya.one**](https://get.waya.one)**.**\
+**Get Enterprise at** [**waya.one/enterprise**](https://waya.one/enterprise)**.**\
+**Join our Discord at** [**discord.gg/yYd6YKHQZH**](https://lunish.nl/support)**.**\
+**Vote for us on** [**top.gg**](https://lunish.nl/vote)**.**
 
-
-{% hint style="info" %}
-Please note that Waya is still under active development and many more features will be added, edited or discontinued in the future. All changes will be announced in our community discord and in your Waya update feeds.
+{% hint style="warning" %}
+Please note that those docs are not done yet. Thanks :3
 {% endhint %}
 
 ## Overview of features
@@ -44,6 +47,10 @@ Here are a couple of example what Waya is capable of:
 > ## Greeting
 >
 > You can you annoy all your new members with an extremely long message, customized embeds and/or a welcome card. You can also ping users in up to 15 channels when they join, assign up to 10 different roles and much more! You can also do the same if they leave and much much more!
+
+{% content-ref url="greetings/welcomer/" %}
+[welcomer](greetings/welcomer/)
+{% endcontent-ref %}
 
 > ## Ticketing
 >

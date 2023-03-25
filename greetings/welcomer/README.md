@@ -1,8 +1,11 @@
 ---
 description: Welcome new members to the community!
+cover: >-
+  https://images.unsplash.com/photo-1563089145-599997674d42?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxwdXJwbGV8ZW58MHx8fHwxNjc5Nzc5NzE0&ixlib=rb-4.0.3&q=85
+coverY: -334
 ---
 
-# Welcomer
+# 🌊 Welcomer
 
 {% hint style="warning" %}
 Require bot permissions in the channel:\
@@ -18,7 +21,7 @@ Require bot permissions in the channel:\
 5. Setup any options you like! ([Need help?](https://lunish.nl/support))
 6. 🎉 Done! Try it out with `wa greet`
 
-<figure><img src="https://c.lunish.nl/r/PLWnHt.png" alt=""><figcaption><p>Examplae welcome message</p></figcaption></figure>
+<figure><img src="https://c.lunish.nl/r/PLWnHt.png" alt="Example welcomer message of someone joining the server and Waya sending a nice welcomer message"><figcaption><p>Example welcome message</p></figcaption></figure>
 
 ### Features in words
 
@@ -44,7 +47,7 @@ In addition, with Waya, you can **delete the join message after a set time**, **
 
 ### Conclusion
 
-In conclusion, Waya's welcome feature is a powerful tool that allows you to create a warm and personalized experience for your new members. With its customization options, role assignments, direct messaging, and other features, Waya's welcome function is an excellent addition to any server.
+In conclusion, Waya's welcome feature is a top-of-the-line tool that surpasses even many paid alternatives, making it an incredible value for Discord server owners and admins. With its customizable welcome message, role assignments, direct messaging, and even the ability to add a custom welcome card, Waya's welcome function offers unparalleled flexibility in creating a warm and personalized experience for new members. And the best part? Waya's welcome feature is entirely free, setting it apart from other bots that charge a fee for similar functionality. So why settle for less when you can have Waya's exceptional welcome feature at no cost?
 
 ### Video Tutorial
 

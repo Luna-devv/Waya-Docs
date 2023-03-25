@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Waya](README.md)
+* [🍇 Waya - A fresh new look](README.md)
 
 ## 📌 stickymessages
 
@@ -8,5 +8,9 @@
 
 ## 👋 Greetings
 
-* [Welcomer](greetings/welcomer/README.md)
+* [🌊 Welcomer](greetings/welcomer/README.md)
   * [DM Notice](greetings/welcomer/dm-notice.md)
+
+## ⚙ Utilities
+
+* [🪶 Tags](utilities/tags.md)
