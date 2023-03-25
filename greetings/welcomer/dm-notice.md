@@ -4,7 +4,7 @@ description: Message is setup by server admins.
 
 # DM Notice
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Waya is committed to providing a safe and respectful environment for all users. We do not support or tolerate any harmful or offensive content or language.
 {% endhint %}
 
@@ -18,12 +18,12 @@ This is a notice to inform users that it's content determined by the server admi
 
 ### How do I disable this?
 
-To disable this feature, a server admin has to run the `/config` command and head over to **Logging > Welcomer > DM Message Embed Editor > Disable**. Note that this action will delete all the content of that configured message.
+To disable this feature, a server admin has to run the `/config` command and head over to **Logging > Welcomer > DM Message > Disable**. Note that this action will delete all the content of that configured message.
 
 ### How can I have this too?
 
 1. Install Waya on your server by going to [get.waya.one](https://get.waya.one).
 2. Run the `/config` command.
-3. Go to **Logging > Welcomer > DM Message Embed Editor**.
+3. Go to **Logging > Welcomer > DM Message**.
 4. 🎉 Done! Try it out with `wa greet`
 

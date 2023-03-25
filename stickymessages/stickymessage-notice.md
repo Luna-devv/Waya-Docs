@@ -2,9 +2,9 @@
 description: Stickymessages are setup by server admins.
 ---
 
-# ❓ Stickymessage Notice
+# Stickymessage Notice
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Waya is committed to providing a safe and respectful environment for all users. We do not support or tolerate any harmful or offensive content or language.
 {% endhint %}
 
@@ -23,7 +23,6 @@ To disable the stickymessages feature, a server administrator can use the comman
 ### How can I have this too?
 
 1. Install Waya on your server by going to [get.waya.one](https://get.waya.one).
-2. Check that it has `ViewChannel` , `SendMessages` and `EmbedLinks` permissions.
-3. Run `/stickymessages create` and follow through that embed.
-4. 🎉 Done! Type some message to try it out.
+2. Run `/stickymessages create` and follow through that embed.
+3. 🎉 Done! Type some message to try it out.
 
