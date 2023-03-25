@@ -28,7 +28,7 @@ Require bot permissions in the channel:\
 Waya's welcome feature provides an excellent opportunity to make new members feel more welcome and appreciated. With its full customization options, you can create a personalized message that suits your server's tone and vibe.
 
 You can create a welcoming message with a **fully customizable message and embed**, making it easy to convey your server's culture and values to your new members.\
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Waya also allows you to **ping your new members in up to 15 channels** if you have [Waya Enterprise](https://waya.one/enterprise), or up to 5 channels in the free plan. This feature ensures that your new members are aware of important channels and can quickly find their way around your server.\
 ![](<../../.gitbook/assets/image (6).png>)
@@ -43,7 +43,7 @@ Waya supports the **"Wave to say Hi!"** button feature found in Discord's welcom
 ![](<../../.gitbook/assets/image (8).png>)
 
 In addition, with Waya, you can **delete the join message after a set time**, **edit the message if the member leaves** and **re-assign all roles and nicknames when they rejoin** your server. This feature ensures that your server stays organized and up-to-date, making it easier for you to manage your members.\
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)![](<../../.gitbook/assets/image (7) (1).png>)
 
 ### Conclusion
 

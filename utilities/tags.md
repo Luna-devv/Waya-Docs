@@ -19,7 +19,27 @@ Require bot permissions in the command channel:\
 4. Saved your changes.
 5. 🎉 Done! Try it out with `wa tag <name>` or `/name`.
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Custom command example</p></figcaption></figure>
+
 ### Commands
+
+There are two main types of commands in Waya: those that allow you to manage your tags on the server, and those that enable you to execute your custom commands.
+
+#### Managing Tags
+
+* `/tags create <tag-name> <?slash-command>` To create a new tag.
+* `/tags edit <tag-name>` To edit an existing tag.
+* `/tags delete <tag-name>` To delete a tag with it's **/**command.
+* `/tags edit <tag-name>` To edit an existing tag.
+* `/tags info <?tag-name>` To view tags analytics. (❤️ [Enterprise required](https://waya.one/enterprise))
+* `/tags list` To list all tags in the server.
+* `wa tags` To list all tags in the server.
+
+{% hint style="info" %}
+When listing tags, you will only see ones you have access to.
+{% endhint %}
+
+#### Executing Tags
 
 You have a variety of options to call your custom command in Waya:
 
@@ -35,15 +55,22 @@ You have a variety of options to call your custom command in Waya:
 If you enable the Slash command **also**:\
 Simply use `/<name>` (i.e.:`/<getting-ids>`) for even quicker access.
 
+{% hint style="info" %}
+The `<name>` placeholder can also be replaced with a tags alias, note that this does **not** work at Slash commands.
+{% endhint %}
+
 ### Features in words
 
 Tags are custom commands that you can set up for your Discord server, designed to help you streamline your communication and avoid repetitive tasks. With Waya, you can **create up to 30 custom commands** on the free plan, and an **infinite number of commands** with our [Enterprise plan](https://waya.one/enterprise).
 
-You can set a **fully customized message with a custom embed**, using a **variety of placeholders** to create custom responses tailored to your server's needs. Additionally, you can set it up as a **ticket tag, which grants you access to ticket-specific data** in your custom command. You can also make your tag a **shiny slash command (/) ✨** for added convenience.
+You can set a **fully customized message with a custom embed**, using a **variety of placeholders** to create custom responses tailored to your server's needs. Additionally, you can set it up as a **ticket tag, which grants you access to ticket-specific data** in your custom command. You can also make your tag a **shiny slash command (/) ✨** for added convenience.\
+![](<../.gitbook/assets/image (3).png>)
 
 Waya allows you to limit access to the command to users with specific permissions, including `Administrator`, `Manage Channels`, `Manage Guild`, `Manage Messages`, `Manage Nicknames`, `Manage Roles`, and `Manage Emojis & Stickers`, or `Manage Threads` permissions.
 
 With [Waya Enterprise](https://waya.one/enterprise), you can also **view analytics for individual tags or all tags**, giving you valuable insights into how your server is using the tag feature.
+
+<img src="../.gitbook/assets/image.png" alt="" data-size="original">
 
 ### Conclusion
 
