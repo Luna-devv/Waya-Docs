@@ -20,6 +20,9 @@ Please note that those docs are not done yet. Thanks :3
 
 ## Overview of features
 
+Waya is available in  [🇺🇸](https://emojipedia.org/flag-united-states/) **English**, [🇦🇱](https://emojipedia.org/flag-albania/) **Albanian**, [🇭🇷](https://emojipedia.org/flag-croatia/) **Croatian**, [🇫🇷](https://emojipedia.org/flag-france/) **French**, [🇩🇪](https://emojipedia.org/flag-germany/) **German**, [🇦🇹](https://emojipedia.org/flag-austria/) **Austrian**, [🇮🇹](https://emojipedia.org/flag-italy/) **Italian** and [🍧](https://emojipedia.org/shaved-ice/) **UwU**.\
+You can help us translating at [translate.waya.one](https://translate.waya.one), don't forget to [conntact us ](https://lunish.nl/support)first!
+
 Here are a couple of example what Waya is capable of:
 
 > ## Pronouns
@@ -59,6 +62,10 @@ Here are a couple of example what Waya is capable of:
 > ## Tags (custom commands)
 >
 > This is the right way to create custom (slash) commands instead of saying the same thing over and over again. This way you can create a custom message with fully customizable embedding and message content. You can also use the placeholders like user information, guild data, current static date, current date with Discord formatting and ticket information if the tag is used in tickets (will be limited to tickets only) and more.
+
+{% content-ref url="utilities/tags.md" %}
+[tags.md](utilities/tags.md)
+{% endcontent-ref %}
 
 > ## Embed Message Links
 >
