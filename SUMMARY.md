@@ -13,4 +13,5 @@
 
 ## ⚙ Utilities
 
+* [👀 Leaderboards](utilities/leaderboards.md)
 * [🪶 Tags](utilities/tags.md)

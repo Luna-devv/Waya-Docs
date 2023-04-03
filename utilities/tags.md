@@ -19,7 +19,7 @@ Require bot permissions in the command channel:\
 4. Saved your changes.
 5. 🎉 Done! Try it out with `wa tag <name>` or `/name`.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Custom command example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Custom command example</p></figcaption></figure>
 
 ### Commands
 
@@ -70,7 +70,7 @@ Waya allows you to limit access to the command to users with specific permission
 
 With [Waya Enterprise](https://waya.one/enterprise), you can also **view analytics for individual tags or all tags**, giving you valuable insights into how your server is using the tag feature.
 
-<img src="../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (4).png" alt="" data-size="original">
 
 ### Conclusion
 
