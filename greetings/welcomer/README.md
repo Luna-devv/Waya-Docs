@@ -45,6 +45,36 @@ Waya supports the **"Wave to say Hi!"** button feature found in Discord's welcom
 In addition, with Waya, you can **delete the join message after a set time**, **edit the message if the member leaves** and **re-assign all roles and nicknames when they rejoin** your server. This feature ensures that your server stays organized and up-to-date, making it easier for you to manage your members.\
 ![](<../../.gitbook/assets/image (2) (1).png>)![](<../../.gitbook/assets/image (7) (1).png>)
 
+### Placeholders
+
+#### Joing user
+
+`user.mention` @Luna\
+`user.id` 821472922140803112\
+`user.tag` Coffee Girl#8888\
+`user.name` username of the joined user\
+`user.avatar` [https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png](https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048)\
+`user.discrim` 8888
+
+#### Current guild
+
+`guild.name` Someone's\
+`guild.id` 828676951023550495\
+`guild.avatar` [https://cdn.discordapp.com/icons/828676951023550495/a\_d05303b604aa28b9c13eca7b5e804349.gif](https://cdn.discordapp.com/icons/828676951023550495/a\_d05303b604aa28b9c13eca7b5e804349.gif?size=512)\
+`guild.rules` <#!883818033867542648> (#rules)\
+`guild.memberCount` 848
+
+#### User who invited them
+
+`user.mention` @Luna\
+`user.id` 821472922140803112\
+`user.tag` Coffee Girl#8888\
+`user.name` username of the joined user\
+`user.avatar` [https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png](https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048)\
+`user.discrim` 8888\
+`inviter.code` yYd6YKHQZH\
+`inviter.count` 259
+
 ### Conclusion
 
 In conclusion, Waya's welcome feature is a top-of-the-line tool that surpasses even many paid alternatives, making it an incredible value for Discord server owners and admins. With its customizable welcome message, role assignments, direct messaging, and even the ability to add a custom welcome card, Waya's welcome function offers unparalleled flexibility in creating a warm and personalized experience for new members. And the best part? Waya's welcome feature is entirely free, setting it apart from other bots that charge a fee for similar functionality. So why settle for less when you can have Waya's exceptional welcome feature at no cost?
