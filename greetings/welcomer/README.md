@@ -47,33 +47,39 @@ In addition, with Waya, you can **delete the join message after a set time**, **
 
 ### Placeholders
 
-#### Joing user
+#### Joing User
 
-`user.mention` @Luna\
-`user.id` 821472922140803112\
-`user.tag` Coffee Girl#8888\
-`user.name` username of the joined user\
-`user.avatar` [https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png](https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048)\
-`user.discrim` 8888
+| Placeholder     | Example                                                                                                                                                                                            | Description               |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| `user.mention`  | @Luna                                                                                                                                                                                              | User mention              |
+| `user.id`       | 821472922140803112                                                                                                                                                                                 | User id                   |
+| `user.tag`      | Coffee Girl#8888                                                                                                                                                                                   | User tag                  |
+| `user.name`     | Coffee Girl                                                                                                                                                                                        | Username                  |
+| `user.avatar`   | [https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png](https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048) | Avatar URL                |
+| `user.discrim`  | 8888                                                                                                                                                                                               | Discriminator (without #) |
 
-#### Current guild
+#### Current Guild
 
-`guild.name` Someone's\
-`guild.id` 828676951023550495\
-`guild.avatar` [https://cdn.discordapp.com/icons/828676951023550495/a\_d05303b604aa28b9c13eca7b5e804349.gif](https://cdn.discordapp.com/icons/828676951023550495/a\_d05303b604aa28b9c13eca7b5e804349.gif?size=512)\
-`guild.rules` <#!883818033867542648> (#rules)\
-`guild.memberCount` 848
+| Placeholder          | Example                                                                                                                                                                                             | Description           |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| `guild.name`         | Someone's                                                                                                                                                                                           | Server name           |
+| `guild.id`           | 828676951023550495                                                                                                                                                                                  | Server id             |
+| `guild.avatar`       | [https://cdn.discordapp.com/icons/828676951023550495/a\_d05303b604aa28b9c13eca7b5e804349.gif](https://cdn.discordapp.com/icons/828676951023550495/a\_d05303b604aa28b9c13eca7b5e804349.gif?size=512) | Icon URL              |
+| `guild.rules`        | <#!883818033867542648>                                                                                                                                                                              | Rules channel mention |
+| `guild.memberCount`  | 848                                                                                                                                                                                                 | Member count          |
 
-#### User who invited them
+#### Inviter
 
-`user.mention` @Luna\
-`user.id` 821472922140803112\
-`user.tag` Coffee Girl#8888\
-`user.name` username of the joined user\
-`user.avatar` [https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png](https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048)\
-`user.discrim` 8888\
-`inviter.code` yYd6YKHQZH\
-`inviter.count` 259
+| Placeholder      | Example                                                                                                                                                                                            | Description               |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| `user.mention`   | @Luna                                                                                                                                                                                              | User mention              |
+| `user.id`        | 821472922140803112                                                                                                                                                                                 | User id                   |
+| `user.tag`       | Coffee Girl#8888                                                                                                                                                                                   | User tag                  |
+| `user.name`      | Coffee Girl                                                                                                                                                                                        | Username                  |
+| `user.avatar`    | [https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png](https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048) | Avatar URL                |
+| `user.discrim`   | 8888                                                                                                                                                                                               | Discriminator (without #) |
+| `inviter.code`   | yYd6YKHQZH                                                                                                                                                                                         | Invite code               |
+| `inviter.count`  | 259                                                                                                                                                                                                | Count of invited users    |
 
 ### Conclusion
 
