@@ -81,6 +81,32 @@ In addition, with Waya, you can **delete the join message after a set time**, **
 | `inviter.code`   | yYd6YKHQZH                                                                                                                                                                                         | Invite code               |
 | `inviter.count`  | 259                                                                                                                                                                                                | Count of invited users    |
 
+#### Random Greets
+
+There is a way to show a random greet every time a user joins just via `{random[english]}`. Which will more or less look like this: `Hey, Coffee Girl! How was your vacation?`\
+\
+**Support languages are:**
+
+```
+{random[english]}, {random[german]},
+{random[spain]}, {random[french]},
+{random[polish]}, {random[italian]},
+{random[croatian]}, {random[ukrainian]},
+{random[dutch]}, {random[swedish]},
+{random[finish]}, {random[albanian]},
+{random[turkish]}
+```
+
+**Supported types:**
+
+| Placeholder | Example          | Description  |
+| ----------- | ---------------- | ------------ |
+| mention     | @Luna            | User mention |
+| tag         | Coffee Girl#8888 | User tag     |
+| name        | Coffee Girl      | Username     |
+
+Usage: `{random[english,username]}`. **With no space!**
+
 ### Conclusion
 
 In conclusion, Waya's welcome feature is a top-of-the-line tool that surpasses even many paid alternatives, making it an incredible value for Discord server owners and admins. With its customizable welcome message, role assignments, direct messaging, and even the ability to add a custom welcome card, Waya's welcome function offers unparalleled flexibility in creating a warm and personalized experience for new members. And the best part? Waya's welcome feature is entirely free, setting it apart from other bots that charge a fee for similar functionality. So why settle for less when you can have Waya's exceptional welcome feature at no cost?
