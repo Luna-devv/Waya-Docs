@@ -18,4 +18,5 @@
 
 ## 🥃 Slash commands
 
+* [💤 /afk](slash-commands/afk.md)
 * [☺ /info](slash-commands/info.md)

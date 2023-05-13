@@ -37,7 +37,7 @@ Another welcome function is the ability to **assign up to 10 roles** with [Waya 
 ![](<../../.gitbook/assets/image (5) (1).png>)
 
 If you want to **send a direct message to your new members**, Waya also allows you to do so with a fully custom message and embed. \
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 Waya supports the **"Wave to say Hi!"** button feature found in Discord's welcome messages. You can **customize the button's colors, label, and emote, and the response message and embed** to create a personalized and unique welcome experience. Alternatively, you can **add a random sticker** instead. You also have the option to **disable the ping** for the welcomed user.\
 ![](<../../.gitbook/assets/image (8) (1).png>)
