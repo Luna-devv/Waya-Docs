@@ -15,3 +15,7 @@
 
 * [👀 Leaderboards](utilities/leaderboards.md)
 * [🪶 Tags](utilities/tags.md)
+
+## 🥃 Slash commands
+
+* [☺ /info](slash-commands/info.md)

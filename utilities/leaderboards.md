@@ -19,7 +19,7 @@ J**ust added?** The bot starts tracking statistics as soon as it's invited to yo
 4. Send the command.
 5. 🎉 Done!&#x20;
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Waya message leaderboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Waya message leaderboard</p></figcaption></figure>
 
 ### Commands
 
@@ -48,7 +48,7 @@ With 🗨️ **Waya's** [**message tracking**](#user-content-fn-1)[^1]**,** the 
 
 The leaderboard always shows the top 10 members in the category of your server. There are **two types of leaderboards available - static and updating**. The static leaderboard shows only the current stats and your own position, while the updating leaderboard updates in intervals of up to 8 minutes (or less/more often) to reflect the most recent data.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (3).png>)
 
 Additionally, Waya's leaderboard feature **allows you to configure a reward role** for the top 3 most active users in message count and voice time. You can set this up in the **/config > miscs > leaderboards > roles** section of the bot.
 

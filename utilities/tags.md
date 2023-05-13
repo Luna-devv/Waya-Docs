@@ -1,6 +1,6 @@
 ---
 description: Custom Commands made easy with no additional programming.
-cover: ../.gitbook/assets/IMG_9366 (1).jpg
+cover: ../.gitbook/assets/IMG_9366.jpg
 coverY: -6
 ---
 
@@ -64,13 +64,13 @@ The `<name>` placeholder can also be replaced with a tags alias, note that this 
 Tags are custom commands that you can set up for your Discord server, designed to help you streamline your communication and avoid repetitive tasks. With Waya, you can **create up to 30 custom commands** on the free plan, and an **infinite number of commands** with our [Enterprise plan](https://waya.one/enterprise).
 
 You can set a **fully customized message with a custom embed**, using a **variety of placeholders** to create custom responses tailored to your server's needs. Additionally, you can set it up as a **ticket tag, which grants you access to ticket-specific data** in your custom command. You can also make your tag a **shiny slash command (/) ✨** for added convenience.\
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Waya allows you to limit access to the command to users with specific permissions, including `Administrator`, `Manage Channels`, `Manage Guild`, `Manage Messages`, `Manage Nicknames`, `Manage Roles`, and `Manage Emojis & Stickers`, or `Manage Threads` permissions.
 
 With [Waya Enterprise](https://waya.one/enterprise), you can also **view analytics for individual tags or all tags**, giving you valuable insights into how your server is using the tag feature.
 
-<img src="../.gitbook/assets/image (4).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (4) (2).png" alt="" data-size="original">
 
 ### Conclusion
 
