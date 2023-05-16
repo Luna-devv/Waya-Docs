@@ -64,7 +64,7 @@ The `<name>` placeholder can also be replaced with a tags alias, note that this 
 Tags are custom commands that you can set up for your Discord server, designed to help you streamline your communication and avoid repetitive tasks. With Waya, you can **create up to 30 custom commands** on the free plan, and an **infinite number of commands** with our [Enterprise plan](https://waya.one/enterprise).
 
 You can set a **fully customized message with a custom embed**, using a **variety of placeholders** to create custom responses tailored to your server's needs. Additionally, you can set it up as a **ticket tag, which grants you access to ticket-specific data** in your custom command. You can also make your tag a **shiny slash command (/) ✨** for added convenience.\
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (2).png>)
 
 Waya allows you to limit access to the command to users with specific permissions, including `Administrator`, `Manage Channels`, `Manage Guild`, `Manage Messages`, `Manage Nicknames`, `Manage Roles`, and `Manage Emojis & Stickers`, or `Manage Threads` permissions.
 

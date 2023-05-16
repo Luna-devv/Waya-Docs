@@ -22,7 +22,7 @@ Require bot permissions in the starboard channel:\
 
 {% embed url="https://medium.com/@wayabot/discord-starboard-with-waya-a-fun-and-customizable-hub-for-memorable-messages-94029e9ea00" %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Starboard example inside of our server.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Starboard example inside of our server.</p></figcaption></figure>
 
 ### Config Options
 
@@ -30,39 +30,47 @@ Please note that the buttons in Waya **always** display the action they perform 
 
 #### 🗨️ Edit Channel
 
-Modify the destination channel for starred messages.
+Modify the destination channel for starred messages.\
+
 
 #### ⭐ Change Emoji
 
-Select a new emote required for reacting. This can be any default Discord emote or a custom emote **from the same server**.
+Select a new emote required for reacting. This can be any default Discord emote or a custom emote **from the same server**.\
+
 
 #### 🎨 Change Color
 
-Customize the embed's color (left border) for messages in the starboard channel. Please get a valid hex color code from sites such as [https://htmlcolorcodes.com/color-picker/](https://htmlcolorcodes.com/color-picker/), include the `#` in the message, for example `#ffffff`.
+Customize the embed's color (left border) for messages in the starboard channel. Please get a valid hex color code from sites such as [https://htmlcolorcodes.com/color-picker/](https://htmlcolorcodes.com/color-picker/), include the `#` in the message, for example `#ffffff`.\
+
 
 #### 🔢 Change Count
 
-Adjust the number of reactions needed with the chosen emote to showcase a message on the starboard channel.
+Adjust the number of reactions needed with the chosen emote to showcase a message on the starboard channel.\
+
 
 #### 🧑‍🦰 Disable/Enable Self Reaction
 
-Determine whether message authors can star their own messages. When disallowed, the author's reaction will be removed.
+Determine whether message authors can star their own messages. When disallowed, the author's reaction will be removed.\
+
 
 #### 🔞 Disable/Enable NSFW
 
 Specify whether Waya should include messages from NSFW-marked channels in the starboard.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)\
+
 
 #### 🤖 Enable/Disable Bots
 
-Determine whether messages from bots can be displayed on the starboard.
+Determine whether messages from bots can be displayed on the starboard.\
+
 
 #### 📝 Show/Hide replied to
 
 Choose whether the replied message should be visible within the starboard or not.
 
-![](<../.gitbook/assets/image (8).png>)![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (8) (1).png>)![](<../.gitbook/assets/image (6) (1).png>)\
+
 
 #### 🖊️ Allow/Disallow Edits
 
@@ -78,7 +86,8 @@ Coming soon (description pending).
 
 #### ❌ Edit Blacklisted Roles
 
-Specify roles that are restricted from starring other people's messages and prevent their own messages from appearing on the starboard.
+Specify roles that are restricted from starring other people's messages and prevent their own messages from appearing on the starboard.\
+
 
 #### 🗑️ Enable/Disable \<X Reactions
 
@@ -87,6 +96,17 @@ If enabled, Waya will remove messages from the starboard channel that no longer 
 {% hint style="warning" %}
 This could be prone to spamming if individuals repeatedly react and un-react to a message.
 {% endhint %}
+
+#### 😍 Display Type
+
+Choose a style how the user should get displayed:
+
+* Tag: `Coffee Girl#8888` (soon to be `@coffee_girl`)
+* Username: `Coffee Girl`
+* Nickname: `Luna`
+* Guild Profile: `Luna` (with per guild avatar as icon)
+
+![](<../.gitbook/assets/image (2).png>)
 
 ### Conclusion
 

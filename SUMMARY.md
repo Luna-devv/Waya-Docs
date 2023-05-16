@@ -21,3 +21,4 @@
 
 * [💤 /afk](slash-commands/afk.md)
 * [☺ /info](slash-commands/info.md)
+* [🥳 /pace](slash-commands/pace.md)

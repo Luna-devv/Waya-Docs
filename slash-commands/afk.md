@@ -12,7 +12,7 @@ coverY: 0
 * `reason` This will be shown to other users why you are away.\
 
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>User being Away from Keyboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>User being Away from Keyboard</p></figcaption></figure>
 
 ### Features in words
 

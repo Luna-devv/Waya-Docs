@@ -18,23 +18,27 @@ coverY: 0
 The `/info` command is a powerful tool that provides you with various information about a user in your server.
 
 Firstly, it shows you the user's message count, allowing you to see how active they are in your community. `/info also` displays the user's voice time, letting you know how much time they have spent in voice channels.\
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 {% content-ref url="../utilities/leaderboards.md" %}
 [leaderboards.md](../utilities/leaderboards.md)
 {% endcontent-ref %}
 
+{% content-ref url="pace.md" %}
+[pace.md](pace.md)
+{% endcontent-ref %}
+
 The command also shows the date when the user's Discord account was created, can be used to identify potential fake or suspicious accounts. Moreover, it shows the date when the user joined the current Discord server and who invited them. (invite format: `<inviter mention>, <invited members>`)
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 Lastly, the `/info` command allows users to set their pronouns, which can help create a more inclusive environment in your server. Use `/prompt pronouns` to enable your users choosing their pronouns.
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1).png>)
 
 You can also like their profile and accessing the links of their avatars and banners. Additionally, if a user has set a per-guild avatar, Waya can provide a link to that as well.
 
-![](<../.gitbook/assets/image (19).png>)\
+![](<../.gitbook/assets/image (19) (1).png>)\
 
 
 ### Conclusion

@@ -21,6 +21,10 @@ J**ust added?** The bot starts tracking statistics as soon as it's invited to yo
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Waya message leaderboard</p></figcaption></figure>
 
+{% content-ref url="../slash-commands/pace.md" %}
+[pace.md](../slash-commands/pace.md)
+{% endcontent-ref %}
+
 ### Commands
 
 There are 2 different commands to show a leaderboard.
@@ -48,11 +52,11 @@ With 🗨️ **Waya's** [**message tracking**](#user-content-fn-1)[^1]**,** the 
 
 The leaderboard always shows the top 10 members in the category of your server. There are **two types of leaderboards available - static and updating**. The static leaderboard shows only the current stats and your own position, while the updating leaderboard updates in intervals of up to 8 minutes (or less/more often) to reflect the most recent data.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Additionally, Waya's leaderboard feature **allows you to configure a reward role** for the top 3 most active users in message count and voice time. You can set this up in the **/config > miscs > leaderboards > roles** section of the bot.
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 ### Static leaderboard
 
@@ -62,11 +66,7 @@ The static leaderboard offers options such as user display style (`id`/`username
 
 The updating leaderboard provides further customization options, including user display style (`id`/`username`/`tag`/`nickname`/`mention`), full custom embed, and the ability to quote the leaderboard data itself (`>` symbol). Additionally, **you can choose the style of the rank, number, and/or user**, with options such as normal, bold, italic, and code available.
 
-### Pace command
 
-The `/pace` command calculates your average messages per day and **predicts your next milestone based on your past analytics**. This is a very neat tool to fight against your friends in server activity.
-
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>/pace command</p></figcaption></figure>
 
 ### Conclusion
 
