@@ -29,15 +29,27 @@ Here are a couple of example what Waya is capable of:
 >
 > This is the way to express your Pronouns. You can simply create an embed where all your members can assign their pronouns by simply clicking a button, they will also appear globally in the `/info` command. Selected pronouns will always be synced between all guilds Waya and the users are in, but of course you can select only server specific pronouns if you want.
 
+{% content-ref url="slash-commands/info.md" %}
+[info.md](slash-commands/info.md)
+{% endcontent-ref %}
+
 > ### Starboard
 >
 > This Starboard is designed for your members and you to highlight silly, funny, weird, questionable and interesting messages in an extra channel for everyone to see. With Waya you can configure many of the things below, your community will love it 💕.
+
+{% content-ref url="utilities/starboard.md" %}
+[starboard.md](utilities/starboard.md)
+{% endcontent-ref %}
 
 > ### Leaderboards
 >
 > Waya records all messages sent by a user, but of course that is not all. Waya also counts how long a user has been active in a voice chat and counts how many users a user has invited in the invitation ranking. The ranking always shows the top 10 members in your server's category.\
 > \
 > Note that there are two types of rankings: the static one, which only shows the current statistics and your own position, and the updated one, which is updated at an interval of up to 6 minutes (or less/more).
+
+{% content-ref url="utilities/leaderboards.md" %}
+[leaderboards.md](utilities/leaderboards.md)
+{% endcontent-ref %}
 
 > ### Logging
 >
