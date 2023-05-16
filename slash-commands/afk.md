@@ -1,5 +1,8 @@
 ---
 description: Are you going away from your computer?
+cover: >-
+  https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxzbGVlcHxlbnwwfHx8fDE2ODQyNDM2NjF8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 💤 /afk
@@ -17,7 +20,7 @@ The `/afk` command is a useful feature that lets others know when you're away fr
 
 Waya will also remove your AFK status as soon as you send a message anywhere, so you don't have to worry about remembering to turn it off.
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 ### Conclusion
 

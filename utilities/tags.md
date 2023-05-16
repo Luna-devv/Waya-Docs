@@ -17,7 +17,7 @@ Require bot permissions in the command channel:\
 2. Run the `/tags create` command and choose if it should be a **/**command.
 3. Set every text like you want it to be. ([Need help?](https://lunish.nl/support))
 4. Saved your changes.
-5. 🎉 Done! Try it out with `wa tag <name>` or `/name`.
+5. 🎉 Done! _Try it out with `wa tag <name>` or `/name`._
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Custom command example</p></figcaption></figure>
 

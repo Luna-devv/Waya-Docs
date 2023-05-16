@@ -30,7 +30,7 @@ The command also shows the date when the user's Discord account was created, can
 
 Lastly, the `/info` command allows users to set their pronouns, which can help create a more inclusive environment in your server. Use `/prompt pronouns` to enable your users choosing their pronouns.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 You can also like their profile and accessing the links of their avatars and banners. Additionally, if a user has set a per-guild avatar, Waya can provide a link to that as well.
 

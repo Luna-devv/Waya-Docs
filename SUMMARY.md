@@ -15,6 +15,7 @@
 
 * [👀 Leaderboards](utilities/leaderboards.md)
 * [🪶 Tags](utilities/tags.md)
+* [⭐ Starboard](utilities/starboard.md)
 
 ## 🥃 Slash commands
 
