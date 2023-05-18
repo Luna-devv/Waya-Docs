@@ -1,5 +1,8 @@
 ---
 description: Get Enterprise and amazing features for yourself and your Guilds!
+cover: >-
+  https://images.unsplash.com/photo-1467810563316-b5476525c0f9?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxmaXJld29ya3xlbnwwfHx8fDE2ODQ0NDA2ODR8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # ✨ /premium
