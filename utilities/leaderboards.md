@@ -43,7 +43,7 @@ Shows how many messages a user has sent since they/the bot joined the server.
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>/leaderboard for member message count</p></figcaption></figure>
 
 {% hint style="danger" %}
-Bot is required to have \`ViewChannel\` permissions in every channel.
+Bot is required to have `ViewChannel` permissions in every channel.
 {% endhint %}
 {% endtab %}
 
@@ -53,7 +53,7 @@ Shows how long a user was in any voice channel with anyone else since they/the b
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>/leaderboard for member voice time</p></figcaption></figure>
 
 {% hint style="danger" %}
-Bot is required to have \`ViewChannel\` permissions in every voice channel.
+Bot is required to have `ViewChannel` permissions in every voice channel.
 {% endhint %}
 {% endtab %}
 
@@ -63,14 +63,18 @@ Shows the amount of members the user has invited since they/the bot joined the s
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>/leaderboard for member invite count</p></figcaption></figure>
 
 {% hint style="danger" %}
-Bot is required to have \`ViewChannel\` permissions in every voice channel.
+Bot is required to have `ManageGuild` permissions.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
 Additionally, Waya's leaderboard feature **allows you to configure a reward role** for the top 3 most active users in message count and voice time. You can set this up in the **/config > miscs > leaderboards > roles** section of the bot.
 
-![](<../.gitbook/assets/image (12) (1) (1).png>)
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 
 
@@ -110,7 +114,7 @@ Small text on the very bottom of the embed.\
 #### 🎨 Color
 
 Who would have guessed, the color on the left side of the embed.\
-![](<../.gitbook/assets/image (13).png>)
+<img src="../.gitbook/assets/image (13).png" alt="" data-size="original">
 
 #### ✨ Emote
 

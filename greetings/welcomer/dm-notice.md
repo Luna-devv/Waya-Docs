@@ -1,5 +1,8 @@
 ---
 description: Message is setup by server admins.
+cover: >-
+  https://images.unsplash.com/photo-1649389966541-12af5cb7efa0?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxidWxsaW5nfGVufDB8fHx8MTY4NDQ0MDUzN3ww&ixlib=rb-4.0.3&q=85
+coverY: 97
 ---
 
 # DM Notice
