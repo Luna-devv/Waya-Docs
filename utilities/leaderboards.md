@@ -56,7 +56,7 @@ The leaderboard always shows the top 10 members in the category of your server. 
 
 Additionally, Waya's leaderboard feature **allows you to configure a reward role** for the top 3 most active users in message count and voice time. You can set this up in the **/config > miscs > leaderboards > roles** section of the bot.
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (12) (1) (1).png>)
 
 ### Static leaderboard
 

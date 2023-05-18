@@ -69,7 +69,7 @@ Determine whether messages from bots can be displayed on the starboard.\
 
 Choose whether the replied message should be visible within the starboard or not.
 
-![](<../.gitbook/assets/image (8) (1).png>)![](<../.gitbook/assets/image (6) (1).png>)\
+![](<../.gitbook/assets/image (8) (1) (1).png>)![](<../.gitbook/assets/image (6) (1).png>)\
 
 
 #### 🖊️ Allow/Disallow Edits
