@@ -23,7 +23,7 @@ Require bot permissions in the channel:\
 
 <figure><img src="https://c.lunish.nl/r/PLWnHt.png" alt="Example welcomer message of someone joining the server and Waya sending a nice welcomer message"><figcaption><p>Example welcome message</p></figcaption></figure>
 
-### Features in words
+### Config Options
 
 Waya's welcome feature provides an excellent opportunity to make new members feel more welcome and appreciated. With its full customization options, you can create a personalized message that suits your server's tone and vibe.
 
@@ -35,7 +35,7 @@ You can create a welcoming message with a **fully customizable message and embed
 #### Join Pings
 
 Waya also allows you to **ping your new members in up to 15 channels** if you have [Waya Enterprise](https://waya.one/enterprise), or up to 5 channels in the free plan.\
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 #### Join Roles
 
@@ -100,9 +100,9 @@ You can create a visually captivating welcome image by customizing the backgroun
 
 #### Random Greets
 
-There is a way to show a random greet every time a user joins just via `{random[english]}`. Which will more or less look like this: `Hey, Coffee Girl! How was your vacation?`\
+There is a way to show a random greet every time a user joins just via `{random[english]}`. ![](<../../.gitbook/assets/image (13).png>)![](<../../.gitbook/assets/image (20).png>)\
 \
-**Support languages are:**
+**Support Languages**
 
 ```
 {random[english]}, {random[german]},
@@ -114,7 +114,7 @@ There is a way to show a random greet every time a user joins just via `{random[
 {random[turkish]}
 ```
 
-**Supported types:**
+**Supported Types**
 
 | Placeholder | Example          | Description  |
 | ----------- | ---------------- | ------------ |
@@ -122,7 +122,7 @@ There is a way to show a random greet every time a user joins just via `{random[
 | tag         | Coffee Girl#8888 | User tag     |
 | name        | Coffee Girl      | Username     |
 
-Usage: `{random[english,username]}`. **With no space!**
+Usage: `{random[english,username]}`. **⚠️ With no space!**
 
 ### Conclusion
 
