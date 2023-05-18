@@ -20,7 +20,7 @@ The `/afk` command is a useful feature that lets others know when you're away fr
 
 Waya will also remove your AFK status as soon as you send a message anywhere, so you don't have to worry about remembering to turn it off.
 
-![](<../.gitbook/assets/image (17) (1).png>)
+![](<../.gitbook/assets/image (17) (1) (1).png>)
 
 ### Conclusion
 

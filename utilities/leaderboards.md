@@ -30,46 +30,110 @@ J**ust added?** The bot starts tracking statistics as soon as it's invited to yo
 There are 2 different commands to show a leaderboard.
 
 * `/leaderboard <type> <..>` Shows a static leaderboard as a command reply.
-* `/prompt leaderboard <type> <...........>` Shows an updating leaderboard, updates all 8 minutes.
-
-There are 3 different leaderboard types (which are pretty obvious) that show different data.
-
-* **Messages**: Shows how many messages a user has sent.
-* **Voice**: Shows how long a user was in voice. _(doesn't count if ur alone sry introverts)_
-* **Invites:** Shows how many members a user has invited.
-
-{% hint style="info" %}
-**Messages:** Bot is required to have \`ViewChannel\` permissions in every channel.
-
-**Voice:** Bot is required to have \`ViewChannel\` permissions in every voice channel.
-
-**Invites:** Bot is required to have \`ManageServer\`.
-{% endhint %}
+* `/prompt leaderboard <type> <...........>` Shows an updating leaderboard, updates all 20 minutes.
 
 ### Features in words
 
-With 🗨️ **Waya's** [**message tracking**](#user-content-fn-1)[^1]**,** the bot records all messages sent by a user, providing you with a clear understanding of their activity levels. Additionally, Waya also offers an 🔗 **invite leaderboard**, which displays the number of users a member has invited to the server. Last but not least, Waya 🔊 **tracks the time your users where connected to a voice chat**.
+With 🗨️ **message tracking,** the bot records all messages sent by a user, providing you with a clear understanding of their activity levels. Additionally, Waya also offers an 🔗 **invite leaderboard**, which displays the number of users a member has invited to the server. Last but not least, Waya 🔊 **tracks the time your users where connected to a voice chat**.
 
-The leaderboard always shows the top 10 members in the category of your server. There are **two types of leaderboards available - static and updating**. The static leaderboard shows only the current stats and your own position, while the updating leaderboard updates in intervals of up to 8 minutes (or less/more often) to reflect the most recent data.
+{% tabs %}
+{% tab title="Messages" %}
+Shows how many messages a user has sent since they/the bot joined the server.
 
-![](<../.gitbook/assets/image (3) (1).png>)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>/leaderboard for member message count</p></figcaption></figure>
+
+{% hint style="danger" %}
+Bot is required to have \`ViewChannel\` permissions in every channel.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Voice" %}
+Shows how long a user was in any voice channel with anyone else since they/the bot joined the server.
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>/leaderboard for member voice time</p></figcaption></figure>
+
+{% hint style="danger" %}
+Bot is required to have \`ViewChannel\` permissions in every voice channel.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Invites" %}
+Shows the amount of members the user has invited since they/the bot joined the server.
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>/leaderboard for member invite count</p></figcaption></figure>
+
+{% hint style="danger" %}
+Bot is required to have \`ViewChannel\` permissions in every voice channel.
+{% endhint %}
+{% endtab %}
+{% endtabs %}
 
 Additionally, Waya's leaderboard feature **allows you to configure a reward role** for the top 3 most active users in message count and voice time. You can set this up in the **/config > miscs > leaderboards > roles** section of the bot.
 
 ![](<../.gitbook/assets/image (12) (1) (1).png>)
 
-### Static leaderboard
-
-The static leaderboard offers options such as user display style (`id`/`username`/`tag`/`nickname`/`mention`) and visibility (`public`/`hidden`), allowing you to customize the command to suit your server's needs. You can choose whether only you or everyone in the server can see the leaderboard.
-
-### Updating leaderboard
-
-The updating leaderboard provides further customization options, including user display style (`id`/`username`/`tag`/`nickname`/`mention`), full custom embed, and the ability to quote the leaderboard data itself (`>` symbol). Additionally, **you can choose the style of the rank, number, and/or user**, with options such as normal, bold, italic, and code available.
 
 
+### Config Options
+
+#### 😍 Display Type
+
+Choose a style how the user should get displayed:
+
+* User mention: @`Coffee Girl` (clickable)
+* Username: `Coffee Girl`
+* Nickname: `Luna`
+* Tag: `Coffee Girl#8888` (soon to be `@coffee_girl`)
+* Id: `821472922140803112`\
+
+
+#### 🔥 Title
+
+The title of the leaderboard embed.\
+![](<../.gitbook/assets/image (10).png>)
+
+#### 🖼️ Thumbnail
+
+The small image on the right site of the embed. (1 : 1 ratio)\
+![](<../.gitbook/assets/image (22).png>)
+
+#### 🖼️ Image
+
+The big image bellows the top listed users.\
+![](<../.gitbook/assets/image (8).png>)
+
+#### 🤏 Footer
+
+Small text on the very bottom of the embed.\
+![](<../.gitbook/assets/image (3).png>)
+
+#### 🎨 Color
+
+Who would have guessed, the color on the left side of the embed.\
+![](<../.gitbook/assets/image (13).png>)
+
+#### ✨ Emote
+
+The Emote used between the data and the user. You can use any default discord Emoji, most other Emojis and custom Emotes **from the same guild**.\
+![](<../.gitbook/assets/image (21).png>)
+
+#### 💬 Quote
+
+Chose if you want that intended quote thing (`>`) on the embed.\
+![](<../.gitbook/assets/image (15).png>)
+
+#### 🔢 Rank / Number / User
+
+Chose the format you want to use for those texts inside of the embed.
+
+* Bold (**example**)
+* Italic (_example_)
+* Underline (example[^1])
+* Code (`example`)
+* None (example)
 
 ### Conclusion
 
 In conclusion, Waya's leaderboard feature is an incredibly powerful and engaging tool for any Discord server. With its comprehensive tracking and customization options, it offers more than many paid alternatives on the market. From message tracking to invite leaderboards to voice time tracking, the leaderboard feature helps keep your server active and engaging for all members. And the best part? It's completely free. Give your server the boost it deserves with Waya's leaderboard feature.
 
-[^1]: However, the content of the messages is not recorded for privacy reasons.&#x20;
+[^1]: 
