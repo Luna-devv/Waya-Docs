@@ -19,7 +19,7 @@ J**ust added?** The bot starts tracking statistics as soon as it's invited to yo
 4. Send the command.
 5. 🎉 Done!&#x20;
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Waya message leaderboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption><p>Waya message leaderboard</p></figcaption></figure>
 
 {% content-ref url="../slash-commands/pace.md" %}
 [pace.md](../slash-commands/pace.md)

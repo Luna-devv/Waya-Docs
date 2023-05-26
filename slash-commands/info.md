@@ -30,7 +30,7 @@ Firstly, it shows you the user's message count, allowing you to see how active t
 
 The command also shows the date when the user's Discord account was created, can be used to identify potential fake or suspicious accounts. Moreover, it shows the date when the user joined the current Discord server and who invited them. (invite format: `<inviter mention>, <invited members>`)
 
-![](<../.gitbook/assets/image (20) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (2).png>)
 
 Lastly, the `/info` command allows users to set their pronouns, which can help create a more inclusive environment in your server. Use `/prompt pronouns` to enable your users choosing their pronouns.
 

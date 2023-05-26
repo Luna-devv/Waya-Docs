@@ -14,7 +14,7 @@ Require bot permissions in the command channel:\
 ### Configure
 
 1. Install Waya on your server by going to [get.waya.one](https://get.waya.one).
-2. Run the `/tags create` command and choose if it should be a **/**command.
+2. Run the `/tags create` command and choose if it should be a \*\*/\*\*command.
 3. Set every text like you want it to be. ([Need help?](https://lunish.nl/support))
 4. Saved your changes.
 5. 🎉 Done! _Try it out with `wa tag <name>` or `/name`._
@@ -29,7 +29,7 @@ There are two main types of commands in Waya: those that allow you to manage you
 
 * `/tags create <tag-name> <?slash-command>` To create a new tag.
 * `/tags edit <tag-name>` To edit an existing tag.
-* `/tags delete <tag-name>` To delete a tag with it's **/**command.
+* `/tags delete <tag-name>` To delete a tag with it's \*\*/\*\*command.
 * `/tags edit <tag-name>` To edit an existing tag.
 * `/tags info <?tag-name>` To view tags analytics. (❤️ [Enterprise required](https://waya.one/enterprise))
 * `/tags list` To list all tags in the server.
@@ -63,8 +63,7 @@ The `<name>` placeholder can also be replaced with a tags alias, note that this 
 
 Tags are custom commands that you can set up for your Discord server, designed to help you streamline your communication and avoid repetitive tasks. With Waya, you can **create up to 30 custom commands** on the free plan, and an infinite number of commands with our [Enterprise plan](https://waya.one/enterprise).
 
-You can set a fully customized message with a custom embed, using a variety of placeholders to create custom responses tailored to your server's needs. Additionally, you can set it up as a **ticket tag, which grants you access to ticket-specific data** in your custom command. You can also make your tag a **shiny slash command (/) ✨** for added convenience.\
-
+You can set a fully customized message with a custom embed, using a variety of placeholders to create custom responses tailored to your server's needs. Additionally, you can set it up as a **ticket tag, which grants you access to ticket-specific data** in your custom command. You can also make your tag a **shiny slash command (/) ✨** for added convenience.\\
 
 <figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption><p>Custom commands list</p></figcaption></figure>
 
@@ -78,14 +77,32 @@ With [Waya Enterprise](https://waya.one/enterprise), you can also view analytics
 
 #### Command Executer
 
-<table><thead><tr><th width="171.33333333333331">Placeholder</th><th width="354">Example</th><th>Description</th></tr></thead><tbody><tr><td><code>user.mention</code></td><td>@Luna</td><td>User mention</td></tr><tr><td><code>user.id</code> </td><td>821472922140803112</td><td>User id</td></tr><tr><td><code>user.tag</code> </td><td>Coffee Girl#8888</td><td>User tag</td></tr><tr><td><code>user.name</code> </td><td>Coffee Girl</td><td>Username</td></tr><tr><td><code>user.avatar</code> </td><td><a href="https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048">https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png</a></td><td>Avatar URL</td></tr><tr><td><code>user.discrim</code> </td><td>8888</td><td>Discriminator (without #)</td></tr></tbody></table>
+<table><thead><tr><th width="171.33333333333331">Placeholder</th><th width="353.0625">Example</th><th>Description</th></tr></thead><tbody><tr><td><code>user.mention</code></td><td>@Luna</td><td>User mention</td></tr><tr><td><code>user.id</code></td><td>821472922140803112</td><td>User id</td></tr><tr><td><code>user.tag</code></td><td>Coffee Girl#8888</td><td>User tag</td></tr><tr><td><code>user.name</code></td><td>Coffee Girl</td><td>Username</td></tr><tr><td><code>user.avatar</code></td><td><a href="https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048">https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png</a></td><td>Avatar URL</td></tr><tr><td><code>user.discrim</code></td><td>8888</td><td>Discriminator (without #)</td></tr></tbody></table>
 
 #### Current Guild
 
-<table><thead><tr><th width="220">Placeholder</th><th width="321.3333333333333">Example</th><th>Description</th></tr></thead><tbody><tr><td><code>guild.name</code> </td><td>Someone's</td><td>Server name</td></tr><tr><td><code>guild.id</code> </td><td>828676951023550495</td><td>Server id</td></tr><tr><td><code>guild.avatar</code> </td><td><a href="https://cdn.discordapp.com/icons/828676951023550495/a_d05303b604aa28b9c13eca7b5e804349.gif?size=512">https://cdn.discordapp.com/icons/828676951023550495/a_d05303b604aa28b9c13eca7b5e804349.gif</a></td><td>Icon URL</td></tr><tr><td><code>guild.rules</code> </td><td>&#x3C;#!883818033867542648></td><td>Rules channel mention</td></tr><tr><td><code>guild.memberCount</code> </td><td>848</td><td>Member count</td></tr></tbody></table>
+<table><thead><tr><th width="220">Placeholder</th><th width="321.3333333333333">Example</th><th>Description</th></tr></thead><tbody><tr><td><code>guild.name</code></td><td>Someone's</td><td>Server name</td></tr><tr><td><code>guild.id</code></td><td>828676951023550495</td><td>Server id</td></tr><tr><td><code>guild.avatar</code></td><td><a href="https://cdn.discordapp.com/icons/828676951023550495/a_d05303b604aa28b9c13eca7b5e804349.gif?size=512">https://cdn.discordapp.com/icons/828676951023550495/a_d05303b604aa28b9c13eca7b5e804349.gif</a></td><td>Icon URL</td></tr><tr><td><code>guild.rules</code></td><td>&#x3C;#!883818033867542648></td><td>Rules channel mention</td></tr><tr><td><code>guild.memberCount</code></td><td>848</td><td>Member count</td></tr></tbody></table>
 
 {% hint style="warning" %}
 `guild.rules` will show null if community isn't setup in your server.
+{% endhint %}
+
+#### Current Date
+
+<table><thead><tr><th width="200.33333333333331">Placeholder</th><th>Example</th><th>Description</th></tr></thead><tbody><tr><td><code>{date.year}</code></td><td>2023</td><td>Current year in YYYY</td></tr><tr><td><code>{date.month}</code></td><td>05</td><td>Current month in MM</td></tr><tr><td><code>{date.day}</code></td><td>26</td><td>Current day as DD</td></tr></tbody></table>
+
+<table><thead><tr><th width="199.33333333333331">Placeholder</th><th>Example</th><th>Description</th></tr></thead><tbody><tr><td><code>{date.unix.t}</code></td><td>16:20 / 4:20 PM</td><td>Short Time</td></tr><tr><td><code>{date.unix.T}</code></td><td>16:20:30 / 4:20:30 PM</td><td>Long Time</td></tr><tr><td><code>{date.unix.d}</code></td><td>20/04/2023</td><td>Short Date</td></tr><tr><td><code>{date.unix.D}</code></td><td>20 April 2023</td><td>Long Date</td></tr><tr><td><code>{date.unix.f}</code></td><td>20 April 2023 16:20</td><td>Short Date/Time</td></tr><tr><td><code>{date.unix.F}</code></td><td>Tuesday, 20 April 2023 16:20</td><td>Long Date/Time</td></tr><tr><td><code>{date.unix.R}</code></td><td>2 months ago</td><td>Relative Time</td></tr></tbody></table>
+
+{% hint style="warning" %}
+Date format will vary based on your timezone and language.
+{% endhint %}
+
+#### Ticket
+
+<table><thead><tr><th width="288">Placeholder</th><th width="209.33333333333331">Example</th><th>Description</th></tr></thead><tbody><tr><td><code>{ticket.name}</code></td><td>ticket-coffee-girl</td><td>Name of the ticket</td></tr><tr><td><code>{ticket.createdAt}</code></td><td>20 April 2023 16:20</td><td>Ticket creation date</td></tr><tr><td><code>{ticket.claimedBy}</code></td><td>@Coffee Girl</td><td>User mention of the staff</td></tr><tr><td><code>{ticket.channelId}</code></td><td>883817635081506886</td><td>Discord channel id</td></tr><tr><td><code>{ticket.creator.mention}</code></td><td>@Coffee Girl</td><td>Ticket creator mention</td></tr><tr><td><code>{ticket.creator.id}</code></td><td>821472922140803112</td><td>Ticket creator id</td></tr><tr><td><code>{ticket.creator.tag}</code></td><td>Coffee Girl#8888</td><td>Ticket creator tag</td></tr><tr><td><code>{ticket.creator.discrim}</code></td><td>8888</td><td>Ticket creator discriminator (without #)</td></tr></tbody></table>
+
+{% hint style="warning" %}
+`{ticket.claimedBy}` will be nothing if the ticket is not claimed.
 {% endhint %}
 
 ### Conclusion
