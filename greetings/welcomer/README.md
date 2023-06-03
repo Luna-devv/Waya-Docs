@@ -112,6 +112,6 @@ In conclusion, Waya's welcome feature is a top-of-the-line tool that surpasses e
 
 ### Video Tutorial
 
-{% embed url="https://www.youtube.com/watch?v=R7X8Kg1hL3k" %}
-Watch a tutorial how it's being set up!
+{% embed url="https://www.youtube.com/watch?v=vM1DO5sFCCE" %}
+Watch a video tutorial
 {% endembed %}
