@@ -30,7 +30,7 @@ Waya's welcome feature provides an excellent opportunity to make new members fee
 #### ✏️ Custom Message & Reactions
 
 You can create a welcoming message with a **fully customizable message and embed**, making it easy to convey your server's culture and values to your new members. You can also add a few **reactions to the welcome message** and the users first message!\
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (2).png>)
 
 #### 🏓 Join Pings
 
@@ -40,12 +40,12 @@ Waya also allows you to **ping your new members in up to 15 channels** if you ha
 #### 👀 Join Roles
 
 This gives you the ability to **assign up to 10 roles** with [Waya Enterprise](https://waya.one/enterprise), or up to 5 roles in the free plan.\
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 #### 💬 Direct Message
 
 If you want to **send a direct message to your new members**, Waya also allows you to do so with a fully custom message and embed. \
-![](<../../.gitbook/assets/image (15) (1).png>)
+![](<../../.gitbook/assets/image (15) (1) (2).png>)
 
 #### 👋 Wave to say Hi
 
@@ -82,7 +82,7 @@ You can create a visually captivating welcome image by customizing the backgroun
 
 #### Random Greets
 
-There is a way to show a random greet every time a user joins just via `{random[english]}`. ![](<../../.gitbook/assets/image (13) (1).png>)![](<../../.gitbook/assets/image (20).png>)\
+There is a way to show a random greet every time a user joins just via `{random[english]}`. ![](<../../.gitbook/assets/image (13) (1) (2).png>)![](<../../.gitbook/assets/image (20).png>)\
 \
 **Support Languages**
 

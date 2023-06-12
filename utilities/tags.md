@@ -7,7 +7,7 @@ coverY: -6
 # 🪶 Tags
 
 {% hint style="warning" %}
-Require bot permissions in the command channel:\
+Required bot permissions in the command channel:\
 `ViewChannel`, `SendMessages`, `EmbedLinks`
 {% endhint %}
 

@@ -8,21 +8,22 @@ coverY: 0
 # ⭐ Starboard
 
 {% hint style="warning" %}
-Require bot permissions in the starboard channel:\
-`ViewChannel`, `SendMessages`, `EmbedLinks`
+Require bot permissions in every channel:
+
+`ViewChannel`
 {% endhint %}
 
 ### Configure
 
 1. Install Waya on your server by going to [get.waya.one](https://get.waya.one).
-2. Run the `/config` command and go to the **Starboard** tab.
+2. Run the `/config` command and go to the **Fun** > **Starboard** tab.
 3. Enable the module and set a _#starboard_ channel. ([Need help?](https://lunish.nl/support))
 4. Configure anything as you want, when you're unsure what something does, read below.
 5. 🎉 Done! _Try it out by reacting to any message with X emote._
 
 {% embed url="https://medium.com/@wayabot/discord-starboard-with-waya-a-fun-and-customizable-hub-for-memorable-messages-94029e9ea00" %}
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Starboard example inside of our server.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption><p>Starboard example inside of our server.</p></figcaption></figure>
 
 ### Config Options
 
@@ -32,6 +33,11 @@ Please note that the buttons in Waya **always** display the action they perform 
 
 Modify the destination channel for starred messages.\
 
+
+{% hint style="warning" %}
+Require bot permissions in the starboard channel:\
+`ViewChannel`, `SendMessages`, `EmbedLinks`
+{% endhint %}
 
 #### ⭐ Change Emoji
 
@@ -106,7 +112,7 @@ Choose a style how the user should get displayed:
 * Nickname: `Luna`
 * Guild Profile: `Luna` (with per guild avatar as icon)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ### Conclusion
 

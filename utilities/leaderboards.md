@@ -50,7 +50,7 @@ Bot is required to have `ViewChannel` permissions in every channel.
 {% tab title="Voice" %}
 Shows how long a user was in any voice channel with anyone else since they/the bot joined the server.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>/leaderboard for member voice time</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>/leaderboard for member voice time</p></figcaption></figure>
 
 {% hint style="danger" %}
 Bot is required to have `ViewChannel` permissions in every voice channel.
@@ -99,12 +99,12 @@ The title of the leaderboard embed.\
 #### 🖼️ Thumbnail
 
 The small image on the right site of the embed. (1 : 1 ratio)\
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 #### 🖼️ Image
 
 The big image bellows the top listed users.\
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (2).png>)
 
 #### 🤏 Footer
 
@@ -114,7 +114,7 @@ Small text on the very bottom of the embed.\
 #### 🎨 Color
 
 Who would have guessed, the color on the left side of the embed.\
-<img src="../.gitbook/assets/image (13).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (13) (1).png" alt="" data-size="original">
 
 #### ✨ Emote
 
@@ -124,7 +124,7 @@ The Emote used between the data and the user. You can use any default discord Em
 #### 💬 Quote
 
 Chose if you want that intended quote thing (`>`) on the embed.\
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 #### 🔢 Rank / Number / User
 
