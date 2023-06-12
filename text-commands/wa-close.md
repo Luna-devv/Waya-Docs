@@ -12,7 +12,7 @@ Required user permissions in the command channel:\
 `ViewChannel`, `ManageChannel`
 {% endhint %}
 
-### Usage
+## Usage
 
 `wa close <?reason>`
 
@@ -20,15 +20,15 @@ Required user permissions in the command channel:\
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>uwu</p></figcaption></figure>
 
-### Features in words
-
-Instantaneously deletes the current ticket. If enabled, the appended reason will be displayed in the ticket logs.
-
-### Related
-
 {% content-ref url="../utilities/tickets.md" %}
 [tickets.md](../utilities/tickets.md)
 {% endcontent-ref %}
+
+## Features in words
+
+Instantaneously deletes the current ticket. If enabled, the appended reason will be displayed in the ticket logs.
+
+## Related
 
 {% content-ref url="wa-add.md" %}
 [wa-add.md](wa-add.md)

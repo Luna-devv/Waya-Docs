@@ -7,7 +7,7 @@ coverY: 0
 
 # 🎟 Tickets
 
-### Configure
+## Configure
 
 1. Install Waya on your server by going to [get.waya.one](https://get.waya.one).
 2. Run the `/config` command and go to the **Starboard** tab.
@@ -17,9 +17,9 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/grafik (1).png" alt=""><figcaption><p>Ticket thread example</p></figcaption></figure>
 
-### Config Options
+## Config Options
 
-#### 🌏 Edit Category
+### 🌏 Edit Category
 
 {% hint style="info" %}
 **Note:** There is a 500 max channel limit per guild.
@@ -40,32 +40,32 @@ Require bot permissions in the ticket channel/category:\
 `ViewChannel`, `SendMessages`, `ReadMessageHistory`, `SendMessages`, `AttachFiles`, `EmbedLinks`, `AddReactions`, `UseExternalEmojis`, `ManageMessages`
 {% endhint %}
 
-#### 🧻 Edit Role
+### 🧻 Edit Role
 
 Assign a specific staff role that grants access and triggers notifications for new tickets. This role will automatically get the `ManageChannel` permission.
 
-#### 🎫 Enable/Disable Open reason
+### 🎫 Enable/Disable Open reason
 
 Make it a requirement for members to include a reason when creating a ticket.![](../.gitbook/assets/grafik.png)
 
-#### 🧺 Enable/Disable Leave Autoclose
+### 🧺 Enable/Disable Leave Autoclose
 
 Delete the ticket when the creator leaves the server.
 
-#### 🔝 Position: To top/bottom
+### 🔝 Position: To top/bottom
 
 Modify the placement of newly created tickets relative to existing ones, determining whether they appear at the top or bottom of the list.
 
-#### 📃 Change Logging Channel
+### 📃 Change Logging Channel
 
 Create a dedicated channel to keep track of ticket closures and let staff members add a reason when closing a ticket.\
 ![](<../.gitbook/assets/image (1).png>)
 
-#### 🎫 Force Reason
+### 🎫 Force Reason
 
 Require your staff members to provide a reason when closing a ticket.
 
-#### 📜 Save transcript
+### 📜 Save transcript
 
 Generate a `.html` file that captures and preserves all messages exchanged within the ticket. This file is automatically saved and persists even after the ticket is deleted. It is sent to the ticket logs and shared with the ticket creator.\
 ![](<../.gitbook/assets/image (27).png>)
@@ -74,7 +74,7 @@ Generate a `.html` file that captures and preserves all messages exchanged withi
 Example transcript
 {% endembed %}
 
-#### 🔑 Channel Naming
+### 🔑 Channel Naming
 
 Chose how new tickets should be named.
 
@@ -84,44 +84,44 @@ Chose how new tickets should be named.
 
 ![](<../.gitbook/assets/image (2).png>)
 
-#### 🖊  Change (Un)claimd Embed
+### 🖊  Change (Un)claimd Embed
 
 Customize your whole ticket's message embed for the claimed and unclaimed state! Modify the title, description, thumbnail, image, and even the embed color.\
 ![](<../.gitbook/assets/image (26).png>)
 
-#### 🖼 Change Claim/Close Emote
+### 🖼 Change Claim/Close Emote
 
 Change the emotes at both the Claim and the Close button. This can be any default Discord emote or a custom emote **from the same server**.\
 ![](<../.gitbook/assets/image (12).png>)
 
-### Commands
+## Commands
 
 A few useful commands for managing tickets.
 
-#### 👥 Add a member to a ticket
+### 👥 Add a member to a ticket
 
 {% content-ref url="../text-commands/wa-add.md" %}
 [wa-add.md](../text-commands/wa-add.md)
 {% endcontent-ref %}
 
-#### 👤 Remove a member from a ticket
+### 👤 Remove a member from a ticket
 
 {% content-ref url="../text-commands/wa-remove.md" %}
 [wa-remove.md](../text-commands/wa-remove.md)
 {% endcontent-ref %}
 
-#### 📵 Close/Delete a ticket
+### 📵 Close/Delete a ticket
 
 {% content-ref url="../text-commands/wa-close.md" %}
 [wa-close.md](../text-commands/wa-close.md)
 {% endcontent-ref %}
 
-#### ❓ Request ticket closure
+### ❓ Request ticket closure
 
 {% content-ref url="../text-commands/wa-closerequest.md" %}
 [wa-closerequest.md](../text-commands/wa-closerequest.md)
 {% endcontent-ref %}
 
-### Conclusion
+## Conclusion
 
 Maximize your ticket management with Waya Tickets—a free and highly customizable solution. Unlike other bots, Waya offers extensive customization options, allowing you to tailor your ticketing system to fit your unique needs. Enjoy the freedom to configure categories, channels, and ticket requirements according to your team's preferences. Say goodbye to limitations and costly subscriptions. Choose Waya Tickets for unmatched customization capabilities and elevate your customer support experience.

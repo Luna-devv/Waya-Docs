@@ -12,21 +12,21 @@ Required user permissions in the command channel:\
 `ViewChannel`
 {% endhint %}
 
-### Usage
+## Usage
 
 `wa closerequest`
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-
-### Features in words
-
-Notifies ticket moderators that you want to close the current ticket. This can only be used by ticket members and not by moderators or admins. Only ticket moderators can close the ticket.
-
-### Related
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>user using 'wa closerequest' in a ticket</p></figcaption></figure>
 
 {% content-ref url="../utilities/tickets.md" %}
 [tickets.md](../utilities/tickets.md)
 {% endcontent-ref %}
+
+## Features in words
+
+Notifies ticket moderators that you want to close the current ticket. This can only be used by ticket members and not by moderators or admins. Only ticket moderators can close the ticket.
+
+## Related
 
 {% content-ref url="wa-add.md" %}
 [wa-add.md](wa-add.md)

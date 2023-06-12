@@ -12,7 +12,7 @@ Required user permissions in the command channel:\
 `ViewChannel`, `ManageChannel`
 {% endhint %}
 
-### Usage
+## Usage
 
 `wa remove [member]`
 
@@ -20,15 +20,15 @@ Required user permissions in the command channel:\
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Not only works with threads*</p></figcaption></figure>
 
-### Features in words
-
-Removes a member's permission to view a ticket, they will be effectively excluded from accessing the ticket's contents. They will neither receive any transcripts nor notifications regarding the closure of the ticket.
-
-### Related content
-
 {% content-ref url="../utilities/tickets.md" %}
 [tickets.md](../utilities/tickets.md)
 {% endcontent-ref %}
+
+## Features in words
+
+Removes a member's permission to view a ticket, they will be effectively excluded from accessing the ticket's contents. They will neither receive any transcripts nor notifications regarding the closure of the ticket.
+
+## Related content
 
 {% content-ref url="wa-add.md" %}
 [wa-add.md](wa-add.md)

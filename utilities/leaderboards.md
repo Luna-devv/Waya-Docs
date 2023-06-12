@@ -11,7 +11,7 @@ coverY: 190
 J**ust added?** The bot starts tracking statistics as soon as it's invited to your server!
 {% endhint %}
 
-### Configure
+## Configure
 
 1. Install Waya on your server by going to [get.waya.one](https://get.waya.one).
 2. Type the `/leaderboards` or `/prompt leaderboards` command.
@@ -25,14 +25,14 @@ J**ust added?** The bot starts tracking statistics as soon as it's invited to yo
 [pace.md](../slash-commands/pace.md)
 {% endcontent-ref %}
 
-### Commands
+## Commands
 
 There are 2 different commands to show a leaderboard.
 
 * `/leaderboard <type> <..>` Shows a static leaderboard as a command reply.
 * `/prompt leaderboard <type> <...........>` Shows an updating leaderboard, updates all 20 minutes.
 
-### Features in words
+## Features in words
 
 With 🗨️ **message tracking,** the bot records all messages sent by a user, providing you with a clear understanding of their activity levels. Additionally, Waya also offers an 🔗 **invite leaderboard**, which displays the number of users a member has invited to the server. Last but not least, Waya 🔊 **tracks the time your users where connected to a voice chat**.
 
@@ -72,15 +72,13 @@ Additionally, Waya's leaderboard feature **allows you to configure a reward role
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt="" width="375"><figcaption><p>setup top 3 roles of a category</p></figcaption></figure>
 
 </div>
 
+## Config Options
 
-
-### Config Options
-
-#### 😍 Display Type
+### 😍 Display Type
 
 Choose a style how the user should get displayed:
 
@@ -88,45 +86,44 @@ Choose a style how the user should get displayed:
 * Username: `Coffee Girl`
 * Nickname: `Luna`
 * Tag: `Coffee Girl#8888` (soon to be `@coffee_girl`)
-* Id: `821472922140803112`\
+* Id: `821472922140803112`
 
-
-#### 🔥 Title
+### 🔥 Title
 
 The title of the leaderboard embed.\
 ![](<../.gitbook/assets/image (10).png>)
 
-#### 🖼️ Thumbnail
+### 🖼️ Thumbnail
 
 The small image on the right site of the embed. (1 : 1 ratio)\
 ![](<../.gitbook/assets/image (22) (1).png>)
 
-#### 🖼️ Image
+### 🖼️ Image
 
 The big image bellows the top listed users.\
 ![](<../.gitbook/assets/image (8) (2).png>)
 
-#### 🤏 Footer
+### 🤏 Footer
 
 Small text on the very bottom of the embed.\
 ![](<../.gitbook/assets/image (3).png>)
 
-#### 🎨 Color
+### 🎨 Color
 
 Who would have guessed, the color on the left side of the embed.\
 <img src="../.gitbook/assets/image (13) (1).png" alt="" data-size="original">
 
-#### ✨ Emote
+### ✨ Emote
 
 The Emote used between the data and the user. You can use any default discord Emoji, most other Emojis and custom Emotes **from the same guild**.\
 ![](<../.gitbook/assets/image (21).png>)
 
-#### 💬 Quote
+### 💬 Quote
 
 Chose if you want that intended quote thing (`>`) on the embed.\
 ![](<../.gitbook/assets/image (15) (1).png>)
 
-#### 🔢 Rank / Number / User
+### 🔢 Rank / Number / User
 
 Chose the format you want to use for those texts inside of the embed.
 
@@ -136,7 +133,7 @@ Chose the format you want to use for those texts inside of the embed.
 * Code (`example`)
 * None (example)
 
-### Conclusion
+## Conclusion
 
 In conclusion, Waya's leaderboard feature is an incredibly powerful and engaging tool for any Discord server. With its comprehensive tracking and customization options, it offers more than many paid alternatives on the market. From message tracking to invite leaderboards to voice time tracking, the leaderboard feature helps keep your server active and engaging for all members. And the best part? It's completely free. Give your server the boost it deserves with Waya's leaderboard feature.
 

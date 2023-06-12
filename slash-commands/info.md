@@ -7,13 +7,13 @@ coverY: 0
 
 # ☺ /info
 
-### Usage
+## Usage
 
 * `user` A Id or mention of the user you want to see, leave blank for yourself.
 * `view` Select if you want to view a user's invites or their profile, default is the profile.
 * `visibility` Choose if the command is publicly viewable or not, default is public.
 
-### Features in words
+## Features in words
 
 The `/info` command is a powerful tool that provides you with various information about a user in your server.
 
@@ -41,6 +41,6 @@ You can also like their profile and accessing the links of their avatars and ban
 ![](<../.gitbook/assets/image (19) (1) (1).png>)\
 
 
-### Conclusion
+## Conclusion
 
 The `/info` command in Waya is an incredible tool for anyone looking to learn more about a user in their Discord server. With the ability to see a user's message count, voice time, account and server join dates, invite information, and even pronouns, the command provides a comprehensive profile of each user. Plus, the added bonus of being able to access links to their avatar, banner, and per-guild avatar (if set) makes it even more useful. And let's not forget the ability to like profiles, which encourages positive engagement and community building. All in all, these features make Waya an essential tool for anyone looking to create a thriving, engaging Discord community.

@@ -13,7 +13,7 @@ Require bot permissions in every channel:
 `ViewChannel`
 {% endhint %}
 
-### Configure
+## Configure
 
 1. Install Waya on your server by going to [get.waya.one](https://get.waya.one).
 2. Run the `/config` command and go to the **Fun** > **Starboard** tab.
@@ -25,11 +25,11 @@ Require bot permissions in every channel:
 
 <figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption><p>Starboard example inside of our server.</p></figcaption></figure>
 
-### Config Options
+## Config Options
 
 Please note that the buttons in Waya **always** display the action they perform upon clicking, rather than reflecting the current state.
 
-#### 🗨️ Edit Channel
+### 🗨️ Edit Channel
 
 Modify the destination channel for starred messages.\
 
@@ -39,46 +39,45 @@ Require bot permissions in the starboard channel:\
 `ViewChannel`, `SendMessages`, `EmbedLinks`
 {% endhint %}
 
-#### ⭐ Change Emoji
+### ⭐ Change Emoji
 
 Select a new emote required for reacting. This can be any default Discord emote or a custom emote **from the same server**.\
 
 
-#### 🎨 Change Color
+### 🎨 Change Color
 
 Customize the embed's color (left border) for messages in the starboard channel. Please get a valid hex color code from sites such as [https://htmlcolorcodes.com/color-picker/](https://htmlcolorcodes.com/color-picker/), include the `#` in the message, for example `#ffffff`.\
 
 
-#### 🔢 Change Count
+### 🔢 Change Count
 
 Adjust the number of reactions needed with the chosen emote to showcase a message on the starboard channel.\
 
 
-#### 🧑‍🦰 Disable/Enable Self Reaction
+### 🧑‍🦰 Disable/Enable Self Reaction
 
 Determine whether message authors can star their own messages. When disallowed, the author's reaction will be removed.\
 
 
-#### 🔞 Disable/Enable NSFW
+### 🔞 Disable/Enable NSFW
 
 Specify whether Waya should include messages from NSFW-marked channels in the starboard.
 
 ![](<../.gitbook/assets/image (5) (1).png>)\
 
 
-#### 🤖 Enable/Disable Bots
+### 🤖 Enable/Disable Bots
 
 Determine whether messages from bots can be displayed on the starboard.\
 
 
-#### 📝 Show/Hide replied to
+### 📝 Show/Hide replied to
 
 Choose whether the replied message should be visible within the starboard or not.
 
-![](<../.gitbook/assets/image (10) (1) (1).png>)![](<../.gitbook/assets/image (17) (2) (1).png>)\
+![](<../.gitbook/assets/image (10) (1) (1).png>)![](<../.gitbook/assets/image (17) (2) (1).png>)
 
-
-#### 🖊️ Allow/Disallow Edits
+### 🖊️ Allow/Disallow Edits
 
 If allowed, messages that are edited will also be updated in the starboard.
 
@@ -86,7 +85,7 @@ If allowed, messages that are edited will also be updated in the starboard.
 This feature can be abused if users edit their messages to display different content once it's on the starboard.
 {% endhint %}
 
-#### 📃 Enable/Disable Logging
+### 📃 Enable/Disable Logging
 
 Coming soon (description pending).
 
@@ -95,7 +94,7 @@ Coming soon (description pending).
 Specify roles that are restricted from starring other people's messages and prevent their own messages from appearing on the starboard.\
 
 
-#### 🗑️ Enable/Disable \<X Reactions
+### 🗑️ Enable/Disable \<X Reactions
 
 If enabled, Waya will remove messages from the starboard channel that no longer meet the required star count.
 
@@ -103,7 +102,7 @@ If enabled, Waya will remove messages from the starboard channel that no longer 
 This could be prone to spamming if individuals repeatedly react and un-react to a message.
 {% endhint %}
 
-#### 😍 Display Type
+### 😍 Display Type
 
 Choose a style how the user should get displayed:
 
@@ -114,11 +113,11 @@ Choose a style how the user should get displayed:
 
 ![](<../.gitbook/assets/image (2) (1).png>)
 
-### Conclusion
+## Conclusion
 
 In conclusion, Waya's Starboard feature offers a powerful and dynamic platform for highlighting exceptional messages within your Discord community. With its extensive customization options, including channel selection, emoji customization, and color preferences, you have full control over the visual appeal of your starboard. The ability to manage bot messages, hide replied-to messages, and control edits ensures a seamless and curated experience for your server members. Additionally, the flexibility to set blacklisted roles and enable or disable reactions maintains the integrity and quality of your starboard content. With Waya's Starboard, you can create a thriving and engaging community where outstanding messages are celebrated and appreciated.
 
-### Video Tutorial
+## Video Tutorial
 
 {% embed url="https://www.youtube.com/watch?v=lwMmGjgT_e0" %}
 Watch how to setup the starboard!
