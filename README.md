@@ -27,7 +27,7 @@ Here are a couple of example what Waya is capable of:
 
 > ### Pronouns
 >
-> This is the way to express your Pronouns. You can simply create an embed where all your members can assign their pronouns by simply clicking a button, they will also appear globally in the `/info` command. Selected pronouns will always be synced between all guilds Waya and the users are in, but of course you can select only server specific pronouns if you want.
+> This is the way to express your Pronouns. You can simply create an embed where all your members can assign their pronouns by simply clicking a button, they will also appear globally in the [`/info`](slash-commands/info.md) command. Selected pronouns will always be synced between all guilds Waya and the users are in, but of course you can select only server specific pronouns if you want.
 
 {% content-ref url="slash-commands/info.md" %}
 [info.md](slash-commands/info.md)
@@ -70,6 +70,10 @@ Here are a couple of example what Waya is capable of:
 > ### Ticketing
 >
 > You can create a shiny embed for users to create tickets on your servers. Of course, you can design the message embedding with custom elements as you wish. Yes, this also applies to the embeds that are sent when a ticket is created. You can use two completely different styles depending on whether your ticket is claimed or not. You can also prompt your users to add an opening reason if you wish. Transcripts are also supported and save the entire chat when the ticket is closed. You can also request a closure reason from your staff. And much much more is also supported!
+
+{% content-ref url="utilities/tickets.md" %}
+[tickets.md](utilities/tickets.md)
+{% endcontent-ref %}
 
 > ### Tags (custom commands)
 >

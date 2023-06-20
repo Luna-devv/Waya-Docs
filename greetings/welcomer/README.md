@@ -44,7 +44,7 @@ This gives you the ability to **assign up to 10 roles** with [Waya Enterprise](h
 
 ### 💬 Direct Message
 
-If you want to **send a direct message to your new members**, Waya also allows you to do so with a fully custom message and embed. \
+If you want to **send a direct message to your new members**, Waya also allows you to do so with a fully custom message and embed.\
 ![](<../../.gitbook/assets/image (15) (1) (2).png>)
 
 ### 👋 Wave to say Hi
@@ -59,18 +59,32 @@ In addition, with Waya, you can **delete the join message after a set time**, **
 
 ### 🖼️ Welcome Image
 
-You can create a visually captivating welcome image by customizing the background and text colors. Make a lasting impression on new members with a personalized and visually appealing welcome experience.\
-![](../../.gitbook/assets/welcome.png)
+You can create a visually captivating welcome image by customizing the background and text colors. Make a lasting impression on new members with a personalized and visually appealing welcome experience.
+
+{% hint style="warning" %}
+Custom background image: **1024x256px** (width, height) and must be `.png`, `.jpg` or `.jpeg`
+{% endhint %}
+
+Background images:
+
+* Join: [imagerenderer.waya.one/static/grass.jpg](https://imagerenderer.waya.one/static/grass.jpg) (default)
+* Join (left): [imagerenderer.waya.one/static/orange-grass.jpg](https://imagerenderer.waya.one/static/orange-grass.jpg) (default)
+* Leave: [imagerenderer.waya.one/static/red-grass.jpg](https://imagerenderer.waya.one/static/red-grass.jpg) (default)
+* Custom: [cdn.waya.one/welcome-bp.png](https://cdn.waya.one/welcome-bp.png) (example from below)
+
+<figure><img src="../../.gitbook/assets/welcome (1).png" alt=""><figcaption><p>Fancy welcome image</p></figcaption></figure>
+
+
 
 ## Placeholders
 
 ### Joining User
 
-<table><thead><tr><th width="171.33333333333331">Placeholder</th><th width="354">Example</th><th>Description</th></tr></thead><tbody><tr><td><code>user.mention</code></td><td>@Luna</td><td>User mention</td></tr><tr><td><code>user.id</code> </td><td>821472922140803112</td><td>User id</td></tr><tr><td><code>user.tag</code> </td><td>Coffee Girl#8888</td><td>User tag</td></tr><tr><td><code>user.name</code> </td><td>Coffee Girl</td><td>Username</td></tr><tr><td><code>user.avatar</code> </td><td><a href="https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048">https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png</a></td><td>Avatar URL</td></tr><tr><td><code>user.discrim</code> </td><td>8888</td><td>Discriminator (without #)</td></tr></tbody></table>
+<table><thead><tr><th width="171.33333333333331">Placeholder</th><th width="354">Example</th><th>Description</th></tr></thead><tbody><tr><td><code>user.mention</code></td><td>@Luna</td><td>User mention</td></tr><tr><td><code>user.id</code></td><td>821472922140803112</td><td>User id</td></tr><tr><td><code>user.tag</code></td><td>Coffee Girl#8888</td><td>User tag</td></tr><tr><td><code>user.name</code></td><td>Coffee Girl</td><td>Username</td></tr><tr><td><code>user.avatar</code></td><td><a href="https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048">https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png</a></td><td>Avatar URL</td></tr><tr><td><code>user.discrim</code></td><td>8888</td><td>Discriminator (without #)</td></tr></tbody></table>
 
 ### Current Guild
 
-<table><thead><tr><th width="220">Placeholder</th><th width="321.3333333333333">Example</th><th>Description</th></tr></thead><tbody><tr><td><code>guild.name</code> </td><td>Someone's</td><td>Server name</td></tr><tr><td><code>guild.id</code> </td><td>828676951023550495</td><td>Server id</td></tr><tr><td><code>guild.avatar</code> </td><td><a href="https://cdn.discordapp.com/icons/828676951023550495/a_d05303b604aa28b9c13eca7b5e804349.gif?size=512">https://cdn.discordapp.com/icons/828676951023550495/a_d05303b604aa28b9c13eca7b5e804349.gif</a></td><td>Icon URL</td></tr><tr><td><code>guild.rules</code> </td><td>&#x3C;#!883818033867542648></td><td>Rules channel mention</td></tr><tr><td><code>guild.memberCount</code> </td><td>848</td><td>Member count</td></tr></tbody></table>
+<table><thead><tr><th width="220">Placeholder</th><th width="321.3333333333333">Example</th><th>Description</th></tr></thead><tbody><tr><td><code>guild.name</code></td><td>Someone's</td><td>Server name</td></tr><tr><td><code>guild.id</code></td><td>828676951023550495</td><td>Server id</td></tr><tr><td><code>guild.avatar</code></td><td><a href="https://cdn.discordapp.com/icons/828676951023550495/a_d05303b604aa28b9c13eca7b5e804349.gif?size=512">https://cdn.discordapp.com/icons/828676951023550495/a_d05303b604aa28b9c13eca7b5e804349.gif</a></td><td>Icon URL</td></tr><tr><td><code>guild.rules</code></td><td>&#x3C;#!883818033867542648></td><td>Rules channel mention</td></tr><tr><td><code>guild.memberCount</code></td><td>848</td><td>Member count</td></tr></tbody></table>
 
 {% hint style="warning" %}
 `guild.rules` will show null if community isn't setup in your server.
@@ -78,7 +92,7 @@ You can create a visually captivating welcome image by customizing the backgroun
 
 ### Inviter
 
-<table><thead><tr><th width="181">Placeholder</th><th width="306.3333333333333">Example</th><th>Description</th></tr></thead><tbody><tr><td><code>user.mention</code> </td><td>@Luna</td><td>User mention</td></tr><tr><td><code>user.id</code> </td><td>821472922140803112</td><td>User id</td></tr><tr><td><code>user.tag</code> </td><td>Coffee Girl#8888</td><td>User tag</td></tr><tr><td><code>user.name</code> </td><td>Coffee Girl</td><td>Username</td></tr><tr><td><code>user.avatar</code> </td><td><a href="https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048">https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png</a></td><td>Avatar URL</td></tr><tr><td><code>user.discrim</code> </td><td>8888</td><td>Discriminator (without #)</td></tr><tr><td><code>inviter.code</code> </td><td>yYd6YKHQZH</td><td>Invite code</td></tr><tr><td><code>inviter.count</code> </td><td>259</td><td>Count of invited users</td></tr></tbody></table>
+<table><thead><tr><th width="181">Placeholder</th><th width="306.3333333333333">Example</th><th>Description</th></tr></thead><tbody><tr><td><code>user.mention</code></td><td>@Luna</td><td>User mention</td></tr><tr><td><code>user.id</code></td><td>821472922140803112</td><td>User id</td></tr><tr><td><code>user.tag</code></td><td>Coffee Girl#8888</td><td>User tag</td></tr><tr><td><code>user.name</code></td><td>Coffee Girl</td><td>Username</td></tr><tr><td><code>user.avatar</code></td><td><a href="https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png?size=2048">https://cdn.discordapp.com/avatars/821472922140803112/4a0d2627b54af074656245c8c6f6b9fc.png</a></td><td>Avatar URL</td></tr><tr><td><code>user.discrim</code></td><td>8888</td><td>Discriminator (without #)</td></tr><tr><td><code>inviter.code</code></td><td>yYd6YKHQZH</td><td>Invite code</td></tr><tr><td><code>inviter.count</code></td><td>259</td><td>Count of invited users</td></tr></tbody></table>
 
 ### Random Greets
 
