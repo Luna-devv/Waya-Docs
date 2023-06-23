@@ -24,6 +24,7 @@
 * [☺ /info](slash-commands/info.md)
 * [🥳 /pace](slash-commands/pace.md)
 * [✨ /premium](slash-commands/premium.md)
+* [🔊 /tts](slash-commands/tts.md)
 
 ## 💬 Text Commands
 
